@@ -20,7 +20,7 @@ const App = () => {
         <div className="nav-links">
           <a href="#projects">Projects</a>
           <a href="#skills">Skills</a>
-          <a href="#" className="resume-btn">Resume <Download size={14}/></a>
+          <a href="https://drive.google.com/file/d/1yC-0JARKp75HTF2RdgEeG5TfwM83lS9I/view?usp=drivesdk" className="resume-btn">Resume <Download size={14}/></a>
         </div>
       </nav>
 
